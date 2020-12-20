@@ -1,0 +1,12 @@
+D:\Downloads\DDD\aurora-api-project-master\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.deps.json
+D:\Downloads\DDD\aurora-api-project-master\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.dll
+D:\Downloads\DDD\aurora-api-project-master\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.pdb
+D:\Downloads\DDD\aurora-api-project-master\Infra.Shared\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+D:\Downloads\DDD\aurora-api-project-master\Infra.Shared\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+D:\Downloads\DDD\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csprojAssemblyReference.cache
+D:\Downloads\DDD\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.AssemblyInfoInputs.cache
+D:\Downloads\DDD\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.AssemblyInfo.cs
+D:\Downloads\DDD\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csproj.CoreCompileInputs.cache
+D:\Downloads\DDD\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csproj.CopyComplete
+D:\Downloads\DDD\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.dll
+D:\Downloads\DDD\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.pdb

@@ -1,0 +1,9 @@
+D:\Downloads\DDD\aurora-api-project-master\Aurora.Domain\bin\Debug\netcoreapp3.1\Aurora.Domain.deps.json
+D:\Downloads\DDD\aurora-api-project-master\Aurora.Domain\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+D:\Downloads\DDD\aurora-api-project-master\Aurora.Domain\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+D:\Downloads\DDD\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.csprojAssemblyReference.cache
+D:\Downloads\DDD\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.AssemblyInfoInputs.cache
+D:\Downloads\DDD\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.AssemblyInfo.cs
+D:\Downloads\DDD\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.csproj.CoreCompileInputs.cache
+D:\Downloads\DDD\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.dll
+D:\Downloads\DDD\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.pdb
